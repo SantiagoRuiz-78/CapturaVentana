@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B085F08-4ACD-444D-A5EE-D3B72E17B533}|CapturadorSantiago2.csproj|C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B085F08-4ACD-444D-A5EE-D3B72E17B533}|CapturadorSantiago2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B085F08-4ACD-444D-A5EE-D3B72E17B533}|CapturadorSantiago2.csproj|C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B085F08-4ACD-444D-A5EE-D3B72E17B533}|CapturadorSantiago2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B085F08-4ACD-444D-A5EE-D3B72E17B533}|CapturadorSantiago2.csproj|c:\\users\\santiago\\onedrive\\documents\\proyectos\\capturadorsantiago\\capturadorsantiago2\\mousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B085F08-4ACD-444D-A5EE-D3B72E17B533}|CapturadorSantiago2.csproj|solutionrelative:mousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B085F08-4ACD-444D-A5EE-D3B72E17B533}|CapturadorSantiago2.csproj|C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\imagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B085F08-4ACD-444D-A5EE-D3B72E17B533}|CapturadorSantiago2.csproj|solutionrelative:imagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B085F08-4ACD-444D-A5EE-D3B72E17B533}|CapturadorSantiago2.csproj|C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\windowcapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B085F08-4ACD-444D-A5EE-D3B72E17B533}|CapturadorSantiago2.csproj|solutionrelative:windowcapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MouseHook.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\MouseHook.cs",
+              "RelativeDocumentMoniker": "MouseHook.cs",
+              "ToolTip": "C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\MouseHook.cs",
+              "RelativeToolTip": "MouseHook.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T02:34:11.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageSaver.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\ImageSaver.cs",
+              "RelativeDocumentMoniker": "ImageSaver.cs",
+              "ToolTip": "C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\ImageSaver.cs",
+              "RelativeToolTip": "ImageSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T02:34:11.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowCapture.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\WindowCapture.cs",
+              "RelativeDocumentMoniker": "WindowCapture.cs",
+              "ToolTip": "C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\WindowCapture.cs",
+              "RelativeToolTip": "WindowCapture.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T02:34:11.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwFYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T02:34:11.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Santiago\\OneDrive\\Documents\\Proyectos\\CapturadorSantiago\\CapturadorSantiago2\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T02:34:11.934Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

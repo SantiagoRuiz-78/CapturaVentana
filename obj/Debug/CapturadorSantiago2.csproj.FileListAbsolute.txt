@@ -1,0 +1,10 @@
+C:\Users\Santiago\OneDrive\Documents\Proyectos\CapturadorSantiago\CapturadorSantiago2\bin\Debug\CapturadorSantiago2.exe.config
+C:\Users\Santiago\OneDrive\Documents\Proyectos\CapturadorSantiago\CapturadorSantiago2\bin\Debug\CapturadorSantiago2.exe
+C:\Users\Santiago\OneDrive\Documents\Proyectos\CapturadorSantiago\CapturadorSantiago2\bin\Debug\CapturadorSantiago2.pdb
+C:\Users\Santiago\OneDrive\Documents\Proyectos\CapturadorSantiago\CapturadorSantiago2\obj\Debug\CapturadorSantiago2.csproj.AssemblyReference.cache
+C:\Users\Santiago\OneDrive\Documents\Proyectos\CapturadorSantiago\CapturadorSantiago2\obj\Debug\CapturadorSantiago2.Form1.resources
+C:\Users\Santiago\OneDrive\Documents\Proyectos\CapturadorSantiago\CapturadorSantiago2\obj\Debug\CapturadorSantiago2.Properties.Resources.resources
+C:\Users\Santiago\OneDrive\Documents\Proyectos\CapturadorSantiago\CapturadorSantiago2\obj\Debug\CapturadorSantiago2.csproj.GenerateResource.cache
+C:\Users\Santiago\OneDrive\Documents\Proyectos\CapturadorSantiago\CapturadorSantiago2\obj\Debug\CapturadorSantiago2.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\OneDrive\Documents\Proyectos\CapturadorSantiago\CapturadorSantiago2\obj\Debug\CapturadorSantiago2.exe
+C:\Users\Santiago\OneDrive\Documents\Proyectos\CapturadorSantiago\CapturadorSantiago2\obj\Debug\CapturadorSantiago2.pdb
